@@ -12,3 +12,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/HenningHaaland/Fys375-Lab-3.git
 git push -u origin main
+
+# Tester litt til
